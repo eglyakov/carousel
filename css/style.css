@@ -80,6 +80,16 @@ body {
         width: 100%;
     }
 
+    .but_prev,
+    .but_next {
+        width: 20px;
+        opacity: 0.6;
+    }
+
+    .carusel_list {
+        margin: 0 2%;
+    }
+
     .carusel_item,
     .carusel img,
     .carusel a {
